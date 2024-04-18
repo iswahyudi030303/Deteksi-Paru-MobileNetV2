@@ -1,3 +1,13 @@
+## Tugas Akhir Kelompok 1B AI PT Stechoq Robotika Indonesia
+Nama Kelompok
+1.Abdan Syakuroh	
+2.Jilan Alhafizh	
+3.Rizky Syaifurrahman	
+4.Wildan Iswahyudi	
+5.Zulfa Aulia	
+
+Mentor
+Tsamara Hanifah
 ## Deteksi Keadaan Paru-paru Menggunakan Metode MobilenetV2
 
 Proyek ini bertujuan untuk mendeteksi keadaan paru-paru pada gambar sinar-X (X-Ray) yang dibagi menjadi 3 kelas: Normal, Pneumonia, dan Pneumothorax. Metode yang digunakan adalah MobilenetV2, dengan menggunakan framework Machine Learning (ML), OpenCV, dan Google Colab.
