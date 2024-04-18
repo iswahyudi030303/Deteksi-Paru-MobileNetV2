@@ -1,4 +1,4 @@
-## Tugas Akhir Kelompok 1B AI PT Stechoq Robotika Indonesia
+### Tugas Akhir Kelompok 1B AI PT Stechoq Robotika Indonesia
 Nama Kelompok
 1.Abdan Syakuroh	
 2.Jilan Alhafizh	
